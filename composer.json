@@ -1,4 +1,5 @@
 {
+    "name": "bydezz/lastframework",
     "require":{
         "php": "^8.0"
     },

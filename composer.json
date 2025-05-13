@@ -1,5 +1,6 @@
 {
     "name": "bydezz/lastframework",
+     "license": "MIT",
     "require":{
         "php": "^8.0"
     },
